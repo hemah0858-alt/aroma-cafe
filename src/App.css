@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.nav-burger { display: none !important; }
+.nav-desktop-links { display: flex !important; }
+@media (max-width: 768px) {
+  .nav-burger { display: flex !important; }
+  .nav-desktop-links { display: none !important; }
+  .nav-signin-btn { display: none !important; }
+  .nav-search-icon { display: none !important; }
+}
+@media (max-width: 768px) {
+  .nav-burger { display: flex !important; }
+  .nav-desktop-links { display: none !important; }
+  .nav-signin-btn { display: none !important; }
+  .nav-search-icon { display: none !important; }
+  .hero-grid { grid-template-columns: 1fr !important; }
+  .hero-grid img { display: none !important; }
+  .hero-title { font-size: 48px !important; }
+}
