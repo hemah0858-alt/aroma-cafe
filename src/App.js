@@ -284,7 +284,7 @@ export default function IndianCafeWebsite() {
             <div className="text-center p-8" style={{ background: '#1a1410', border: '1px solid #3a3430' }}>
               <Clock size={40} className="mx-auto mb-4" style={{ color: '#d4a574' }} />
               <h3 className="font-bold text-lg mb-2" style={{ color: '#d4a574' }}>Hours</h3>
-              <p style={{ color: '#c0c0c0' }}>Mon-Sun: 7 AM - 9 PM<br />Closed on Mondays</p>
+              <p style={{ color: '#c0c0c0' }}>Sat-Friday: 7 AM - 9 PM<br /></p>
             </div>
           </div>
         </div>
