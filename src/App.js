@@ -274,12 +274,12 @@ export default function IndianCafeWebsite() {
             <div className="text-center p-8" style={{ background: '#1a1410', border: '1px solid #3a3430' }}>
               <MapPin size={40} className="mx-auto mb-4" style={{ color: '#d4a574' }} />
               <h3 className="font-bold text-lg mb-2" style={{ color: '#d4a574' }}>Location</h3>
-              <p style={{ color: '#c0c0c0' }}>123 Food Street<br />Tirunelveli, Tamil Nadu</p>
+              <p style={{ color: '#c0c0c0' }}>15 Ameeni Magu<br />Maldives, Male</p>
             </div>
             <div className="text-center p-8" style={{ background: '#1a1410', border: '1px solid #3a3430' }}>
               <Phone size={40} className="mx-auto mb-4" style={{ color: '#d4a574' }} />
               <h3 className="font-bold text-lg mb-2" style={{ color: '#d4a574' }}>Phone</h3>
-              <p style={{ color: '#c0c0c0' }}><a href="tel:+919876543210">+91 98765 43210</a><br /><a href="tel:+919876543211">+91 98765 43211</a></p>
+              <p style={{ color: '#c0c0c0' }}><a href="tel:+960-9876587">+960-9876587</a><br /><a href="tel:+960-9876588">+960-9876588</a></p>
             </div>
             <div className="text-center p-8" style={{ background: '#1a1410', border: '1px solid #3a3430' }}>
               <Clock size={40} className="mx-auto mb-4" style={{ color: '#d4a574' }} />
